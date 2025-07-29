@@ -1,4 +1,4 @@
-## FULLSTACK Software Developer Test "To Do List APP"
+## Software Developer Fullstack Test "To Do List APP"
 
 Implement an application that allows for our registered users the management of a "To Do List.", with the following features:
 
