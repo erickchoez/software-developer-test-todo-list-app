@@ -1,5 +1,5 @@
-# fullstack-todo-laravel
-Deliverable Project: ToDo List App - Backend (Laravel 12) + Frontend (React 18 + Vite) + PostgreSQL + Docker
+# ToDO List App
+Deliverable Project: ToDo List App
 
 ## Summary
 - Backend: Laravel
