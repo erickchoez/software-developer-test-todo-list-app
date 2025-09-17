@@ -1,14 +1,14 @@
 # Backend (Laravel)
 
-## Setup local (sin Docker)
-- Copia `.env.example` a `.env` y configura la conexión a Postgres
-- Ejecuta `composer install`
-- Genera la app key: `php artisan key:generate`
-- Ejecuta migraciones: `php artisan migrate`
+## Local Setup (without Docker)
+- Copy `.env.example` to `.env` and configure the Postgres connection
+- Run `composer install`
+- Generate the app key: `php artisan key:generate`
+- Run migrations: `php artisan migrate`
 
-## Con Docker (recomendado)
+## With Docker (recommended)
 - `docker-compose up --build -d`
 - `docker-compose exec app bash`
-- (si es necesario) `composer install`
+- (if necessary) `composer install`
 - `php artisan key:generate`
 - `php artisan migrate --seed`
