@@ -1,5 +1,5 @@
 # Frontend (React + Vite)
 ## Run
-- Copia `.env.example` a `.env` y ajusta `VITE_API_URL` si es necesario
+- Copy `.env.example` to `.env` and adjust `VITE_API_URL` if necessary
 - `npm install`
 - `npm run dev`
