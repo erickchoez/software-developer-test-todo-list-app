@@ -2,19 +2,9 @@
 Deliverable Project: ToDo List App - Backend (Laravel 12) + Frontend (React 18 + Vite) + PostgreSQL + Docker
 
 ## Summary
-- Backend: Laravel 12 (PHP 8.x) + Sanctum + ramsey/uuid
-- Frontend: React 18 + Vite + MUI
-- DB: PostgreSQL 15
-- Authentication: Laravel Sanctum (token-based)
-- Migrations: Laravel migrations for `users` and `tasks`
-- Dockers: `docker-compose.yml` with services `app` (PHP), `nginx`, `db`, `frontend`
-
----
-## Repository Contents
-- `/backend` — Laravel code (skeleton and key files: models, migrations, controllers, routes, Dockerfile, composer.json)
-- `/frontend` — React + Vite (login system and task CRUD)
-- `docker-compose.yml` — local orchestration
-- `.env.example` — example variables for backend and frontend
+- Backend: Laravel
+- Frontend: React + Vite + MUI
+- DB: PostgreSQL
 
 ---
 ## Default Variables Used
